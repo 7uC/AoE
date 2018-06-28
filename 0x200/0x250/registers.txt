@@ -1,0 +1,49 @@
+			_______________		
+	
+			x86 Architecture
+			_______________
+
+little-endian
+	-least significant bit first.
+
+intruction      	source, destination
+
+		_________________________
+		
+		General-Purpose Registers
+		_________________________
+
+RAX-EAX-AX-AH-AL	Accumulator
+RCX-ECX-CX-CH-CL	Counter
+RDX-EDX-DX-DH-DL	Data
+RBX-EBX-BX-BH-BL	Base
+RSP-ESP-SP		Stack Pointer
+RBP-EBP-BP		Stack Base Pointer
+RSI-ESI-SI		Source
+RDI-EDI-DI		Destination
+R8-R15
+
+		_______________
+			
+		Other Registers
+		_______________
+
+EIP			Instruction Pointer
+EFLAGS
+0	Carry Flag
+2	Parity Flag
+4	Adjust Flag
+6	Zero Flag
+7	Sign Flag
+8	Trap Flag
+9	Interruption Flag
+10	Direction Flag
+11	Overflow Flag
+12-13	I/O Privilege Level
+14	Nested Task
+16	Resume Flag
+17	Virtual-8086 Mode
+18	Alignment Check
+19	Virtual Interrupt Flag
+20	Virtual Interrupt Pending
+21	Identification Flag

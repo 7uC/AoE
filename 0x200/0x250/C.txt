@@ -1,0 +1,8 @@
+		_________________
+		
+			C
+		_________________
+
+
+- "Arrays" can also be known an "buffers"
+- by default ints are signed
